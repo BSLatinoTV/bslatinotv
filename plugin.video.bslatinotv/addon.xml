@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.bslatinotv"
        name="BSLatinoTV"
-       version="1.1.3"
+       version="1.1.4"
        provider-name="BS Latino TV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -19,7 +19,7 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>basado en livestreamspro 1.8.5 by Shani</summary>
+    <summary>basado en livestreamspro 1.8.5 de Shani</summary>
     <description>BS Latino TV</description>
     <platform>all</platform>
   </extension>
